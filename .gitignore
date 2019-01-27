@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+#mac
+.DS_Store
+.idea/
+
 # Compiled Object files
 *.slo
 *.lo
